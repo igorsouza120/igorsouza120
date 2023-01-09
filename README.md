@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
+
+
+
 <!--
 **igorsouza120/igorsouza120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
